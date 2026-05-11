@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='C:\Users\chanh\web102_prework\assets\SeaMonstersCrowdfunding.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/SeaMonstersCrowdfunding.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap  
@@ -35,6 +35,7 @@ GIF created with LICECap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 Although the concepts are new to me, the instructions are clear. Therefore, everything were not that bad.
 
 ## License
